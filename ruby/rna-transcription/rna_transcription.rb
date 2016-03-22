@@ -4,7 +4,7 @@ class Complement
     validstr = str.split("").all? do |i|
       %(C G T A).include?(i)
     end
-    if(!validstr)
+    if (!validstr)
       raise ArgumentError
     end
     str.tr('CGTA', 'GCAU')
