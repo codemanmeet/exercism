@@ -2,3 +2,5 @@
 *.class
 
 scala/.idea/workspace.xml
+
+*.class
