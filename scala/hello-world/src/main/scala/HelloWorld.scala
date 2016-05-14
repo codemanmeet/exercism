@@ -1,5 +1,3 @@
 object HelloWorld {
-  def hello(name: String="World"): String = {
-    return("Hello, " + name + "!")
-  }
+  def hello(name: String="World"): String = ("Hello, " + name + "!")
 }
