@@ -1,6 +1,10 @@
 
 *.class
 
-scala/.idea/workspace.xml
+.idea/
 
-*.class
+.idea/*
+
+*.iml
+
+target/
