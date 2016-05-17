@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bob/.idea/modules/bob.iml" filepath="$PROJECT_DIR$/bob/.idea/modules/bob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bob/.idea/modules/bob.iml" filepath="$PROJECT_DIR$/bob/.idea/modules/bob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bob/.idea/modules/bob-build.iml" filepath="$PROJECT_DIR$/bob/.idea/modules/bob-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/bob/.idea/modules/bob-build.iml" filepath="$PROJECT_DIR$/bob/.idea/modules/bob-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/hamming/.idea/modules/hamming.iml" filepath="$PROJECT_DIR$/hamming/.idea/modules/hamming.iml" />
       <module fileurl="file://$PROJECT_DIR$/hamming/.idea/modules/hamming-build.iml" filepath="$PROJECT_DIR$/hamming/.idea/modules/hamming-build.iml" />

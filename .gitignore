@@ -1,4 +1,5 @@
 
+target/
 *.class
 
 .idea/
@@ -9,5 +10,3 @@
 
 *.ipr
 *.iws
-
-target/
